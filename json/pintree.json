@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1676042997528,
+    "addDate": 1681466026324,
     "title": "收藏夹栏",
     "children": [
       {
@@ -10,235 +10,228 @@
         "title": "办公",
         "children": [
           {
-            "type": "link",
-            "addDate": 1543453582000,
-            "title": "卫生健康监督信息平台",
-            "icon": "https://logo.clearbit.com/xxpt.jdzx.net.cn",
-            "url": "https://xxpt.jdzx.net.cn/nhisportal"
+            "type": "folder",
+            "addDate": 1721445344785,
+            "title": "系统",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1673430821000,
+                "title": "蓝信下载",
+                "icon": "https://logo.clearbit.com/service.lanxin.cn",
+                "url": "https://service.lanxin.cn/service/download/"
+              },
+              {
+                "type": "link",
+                "addDate": 1543453582000,
+                "title": "卫生健康监督信息平台",
+                "icon": "https://logo.clearbit.com/xxpt.jdzx.net.cn",
+                "url": "https://xxpt.jdzx.net.cn/nhisportal"
+              },
+              {
+                "type": "link",
+                "addDate": 1673431978000,
+                "title": "卫生健康云服务综合管理平台",
+                "icon": "https://logo.clearbit.com/sxwsjd.mtmcloud.cn",
+                "url": "http://sxwsjd.mtmcloud.cn:7000/nhis/index.jsp"
+              },
+              {
+                "type": "link",
+                "addDate": 1573714875000,
+                "title": "山西省市场监督管理局(知识产权局)",
+                "icon": "https://logo.clearbit.com/scjgj.shanxi.gov.cn",
+                "url": "http://scjgj.shanxi.gov.cn/index.htm"
+              },
+              {
+                "type": "link",
+                "addDate": 1676416772165,
+                "title": "兔年新启 开工大吉",
+                "icon": "https://logo.clearbit.com/flowus.cn",
+                "url": "https://flowus.cn/bf3d229b-efa0-4640-95b7-95d1e009fd10"
+              },
+              {
+                "type": "link",
+                "addDate": 1465481805000,
+                "title": "QQ邮箱",
+                "icon": "https://logo.clearbit.com/mail.qq.com",
+                "url": "https://mail.qq.com/cgi-bin/frame_html?r=2b017af81d9c7b899c98602e40241ac1&sid=LoUa_iLjXwP1ICNz"
+              },
+              {
+                "type": "link",
+                "addDate": 1472108419000,
+                "title": "钉钉",
+                "icon": "https://logo.clearbit.com/im.dingtalk.com",
+                "url": "https://im.dingtalk.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1673432030000,
+                "title": "钉钉管理后台 - 钉钉统一身份认证",
+                "icon": "https://logo.clearbit.com/login.dingtalk.com",
+                "url": "https://login.dingtalk.com/oauth2/challenge.htm?redirect_uri=https%3A%2F%2Foa.dingtalk.com%2Fomp%2Flogin%2Fdingtalk_sso_call_back%3Fcontinue%3Dhttps%253A%252F%252Foa.dingtalk.com%252F%253Fspm%253Da213l2.13146415.4929779444.60.7f155e804l9h6e&response_type=code&client_id=dingoaltcsv4vlgoefhpec&scope=openid+corpid&org_type=management#/welcome"
+              },
+              {
+                "type": "link",
+                "addDate": 1554177074000,
+                "title": "网康互联网控制网关",
+                "icon": "https://logo.clearbit.com/192.168.0.9",
+                "url": "https://192.168.0.9/"
+              },
+              {
+                "type": "link",
+                "addDate": 1713492501624,
+                "title": "无线AP管理",
+                "icon": "https://logo.clearbit.com/192.168.60.254",
+                "url": "http://192.168.60.254/func/web_main/display/frame/main###"
+              },
+              {
+                "type": "link",
+                "addDate": 1673510560000,
+                "title": "控制台-NotionFeed",
+                "icon": "https://logo.clearbit.com/notion-feed.com",
+                "url": "https://notion-feed.com/app/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1673431342000,
+                "title": "信天行数字证书服务系统",
+                "icon": "https://logo.clearbit.com/userweb.bjca.org.cn",
+                "url": "https://userweb.bjca.org.cn/bossuserweb/downfiles/bjcainstall.aspx"
+              },
+              {
+                "type": "link",
+                "addDate": 1576660811000,
+                "title": "山西省政府采购网上商城",
+                "icon": "https://logo.clearbit.com/shanxi.gpmart.cn",
+                "url": "http://shanxi.gpmart.cn/shopHome/gotoShopPage.action"
+              },
+              {
+                "type": "link",
+                "addDate": 1464767681000,
+                "title": "饮水监测（内网）",
+                "icon": "https://logo.clearbit.com/192.168.0.15",
+                "url": "http://192.168.0.15:9080/Login.aspx"
+              },
+              {
+                "type": "link",
+                "addDate": 1673431883000,
+                "title": "notion",
+                "icon": "https://logo.clearbit.com/www.notion.so",
+                "url": "https://www.notion.so/Getting-Started-9dd5cefac5c6419a8ef4ba44d5705599"
+              },
+              {
+                "type": "link",
+                "addDate": 1673431141000,
+                "title": "登录 · 语雀",
+                "icon": "https://logo.clearbit.com/www.yuque.com",
+                "url": "https://www.yuque.com/login?goto=https%3A%2F%2Fwww.yuque.com%2Fdashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1576762589000,
+                "title": "卫生健康执法监督 · 语雀",
+                "icon": "https://logo.clearbit.com/www.yuque.com",
+                "url": "https://www.yuque.com/xardac"
+              }
+            ]
           },
           {
-            "type": "link",
-            "addDate": 1673431978000,
-            "title": "卫生健康云服务综合管理平台",
-            "icon": "https://logo.clearbit.com/sxwsjd.mtmcloud.cn",
-            "url": "http://sxwsjd.mtmcloud.cn:7000/nhis/index.jsp"
-          },
-          {
-            "type": "link",
-            "addDate": 1472108419000,
-            "title": "钉钉",
-            "icon": "https://logo.clearbit.com/im.dingtalk.com",
-            "url": "https://im.dingtalk.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1673432030000,
-            "title": "钉钉管理后台 - 钉钉统一身份认证",
-            "icon": "https://logo.clearbit.com/login.dingtalk.com",
-            "url": "https://login.dingtalk.com/oauth2/challenge.htm?redirect_uri=https%3A%2F%2Foa.dingtalk.com%2Fomp%2Flogin%2Fdingtalk_sso_call_back%3Fcontinue%3Dhttps%253A%252F%252Foa.dingtalk.com%252F%253Fspm%253Da213l2.13146415.4929779444.60.7f155e804l9h6e&response_type=code&client_id=dingoaltcsv4vlgoefhpec&scope=openid+corpid&org_type=management#/welcome"
-          },
-          {
-            "type": "link",
-            "addDate": 1713492501624,
-            "title": "无线AP管理",
-            "icon": "https://logo.clearbit.com/192.168.60.254",
-            "url": "http://192.168.60.254/func/web_main/display/frame/main###"
-          },
-          {
-            "type": "link",
-            "addDate": 1554177074000,
-            "title": "网康互联网控制网关",
-            "icon": "https://logo.clearbit.com/192.168.0.9",
-            "url": "https://192.168.0.9/"
-          },
-          {
-            "type": "link",
-            "addDate": 1676416772165,
-            "title": "兔年新启 开工大吉",
-            "icon": "https://logo.clearbit.com/flowus.cn",
-            "url": "https://flowus.cn/bf3d229b-efa0-4640-95b7-95d1e009fd10"
-          },
-          {
-            "type": "link",
-            "addDate": 1673510560000,
-            "title": "控制台-NotionFeed",
-            "icon": "https://logo.clearbit.com/notion-feed.com",
-            "url": "https://notion-feed.com/app/dashboard"
-          },
-          {
-            "type": "link",
-            "addDate": 1465481805000,
-            "title": "QQ邮箱",
-            "icon": "https://logo.clearbit.com/mail.qq.com",
-            "url": "https://mail.qq.com/cgi-bin/frame_html?r=2b017af81d9c7b899c98602e40241ac1&sid=LoUa_iLjXwP1ICNz"
-          },
-          {
-            "type": "link",
-            "addDate": 1586219377000,
-            "title": "中华人民共和国国家卫生健康委员会",
-            "icon": "https://logo.clearbit.com/www.nhc.gov.cn",
-            "url": "http://www.nhc.gov.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1573714875000,
-            "title": "山西省市场监督管理局(知识产权局)",
-            "icon": "https://logo.clearbit.com/scjgj.shanxi.gov.cn",
-            "url": "http://scjgj.shanxi.gov.cn/index.htm"
-          },
-          {
-            "type": "link",
-            "addDate": 1546515057000,
-            "title": "山西省卫生健康委员会-首页",
-            "icon": "https://logo.clearbit.com/wjw.shanxi.gov.cn",
-            "url": "http://wjw.shanxi.gov.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1673431342000,
-            "title": "信天行数字证书服务系统",
-            "icon": "https://logo.clearbit.com/userweb.bjca.org.cn",
-            "url": "https://userweb.bjca.org.cn/bossuserweb/downfiles/bjcainstall.aspx"
-          },
-          {
-            "type": "link",
-            "addDate": 1709521396171,
-            "title": "太原市政务服务网",
-            "icon": "https://logo.clearbit.com/ty.sxzwfw.gov.cn",
-            "url": "https://ty.sxzwfw.gov.cn/icity/icity/proinfo?id=2E04990594A747228ADD9C8A187A7584&i=1"
-          },
-          {
-            "type": "link",
-            "addDate": 1709526045415,
-            "title": "社会事务二科审批信息通报（2022年第6期）-太原市行政审批服务管理局网站",
-            "icon": "https://logo.clearbit.com/xzspglj.taiyuan.gov.cn",
-            "url": "https://xzspglj.taiyuan.gov.cn/tzgg/20220706/1222455.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1465481691000,
-            "title": "中华万年历 - 记录分享每一天 ，记事/活动/提醒/天气/闹钟 (随身云)",
-            "icon": "https://logo.clearbit.com/www.zhwnl.cn",
-            "url": "http://www.zhwnl.cn/home"
-          },
-          {
-            "type": "link",
-            "addDate": 1673431290000,
-            "title": "山西政务服务网",
-            "icon": "https://logo.clearbit.com/www.sxzwfw.gov.cn",
-            "url": "http://www.sxzwfw.gov.cn/icity/public/index"
-          },
-          {
-            "type": "link",
-            "addDate": 1522657851000,
-            "title": "山西省纪委监委网站",
-            "icon": "https://logo.clearbit.com/www.sxdi.gov.cn",
-            "url": "http://www.sxdi.gov.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1471921438000,
-            "title": "中国卫生信息学会",
-            "icon": "https://logo.clearbit.com/www.chia-moh.org.cn",
-            "url": "http://www.chia-moh.org.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1465484029000,
-            "title": "山西省机构编制网",
-            "icon": "https://logo.clearbit.com/www.sxsbb.gov.cn",
-            "url": "http://www.sxsbb.gov.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1537865789000,
-            "title": "健康中国",
-            "icon": "https://logo.clearbit.com/www.jkzg2030.com",
-            "url": "http://www.jkzg2030.com/jkzg/healthNumberNew/myhealth.htm"
-          },
-          {
-            "type": "link",
-            "addDate": 1537865803000,
-            "title": "健康中国活动频道",
-            "icon": "https://logo.clearbit.com/www.jkzg2030.com",
-            "url": "http://www.jkzg2030.com/jkzg/home.htm"
-          },
-          {
-            "type": "link",
-            "addDate": 1705227072251,
-            "title": "山西省健康管理学会",
-            "icon": "https://logo.clearbit.com/www.shanxijiankangguanglixuehui.com.cn",
-            "url": "http://www.shanxijiankangguanglixuehui.com.cn/sy"
-          },
-          {
-            "type": "link",
-            "addDate": 1705227161047,
-            "title": "云梦建站",
-            "icon": "https://logo.clearbit.com/ac.clouddream.net",
-            "url": "https://ac.clouddream.net/#/login?redirect=%2F"
-          },
-          {
-            "type": "link",
-            "addDate": 1673430821000,
-            "title": "蓝信下载",
-            "icon": "https://logo.clearbit.com/service.lanxin.cn",
-            "url": "https://service.lanxin.cn/service/download/"
-          },
-          {
-            "type": "link",
-            "addDate": 1586885789000,
-            "title": "国家标准全文公开",
-            "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
-            "url": "http://openstd.samr.gov.cn/bzgk/gb/index"
-          },
-          {
-            "type": "link",
-            "addDate": 1463621889000,
-            "title": "晋ICP备07004194号-1备案详细信息_www.sxwsjd.com备案信息_山西卫生监督网备案信息_ICP备案查询网",
-            "icon": "https://logo.clearbit.com/www.beianbeian.com",
-            "url": "http://www.beianbeian.com/beianxinxi/36fb0768-e332-425b-8336-ae7a2212110c.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1576660811000,
-            "title": "山西省政府采购网上商城",
-            "icon": "https://logo.clearbit.com/shanxi.gpmart.cn",
-            "url": "http://shanxi.gpmart.cn/shopHome/gotoShopPage.action"
-          },
-          {
-            "type": "link",
-            "addDate": 1464767681000,
-            "title": "饮水监测（内网）",
-            "icon": "https://logo.clearbit.com/192.168.0.15",
-            "url": "http://192.168.0.15:9080/Login.aspx"
-          },
-          {
-            "type": "link",
-            "addDate": 1553590187000,
-            "title": "省级政务云平台服务目录-山西云时代技术有限公司",
-            "icon": "https://logo.clearbit.com/www.sxctc.net",
-            "url": "http://www.sxctc.net/ysd/zwy/2510.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1673431883000,
-            "title": "notion",
-            "icon": "https://logo.clearbit.com/www.notion.so",
-            "url": "https://www.notion.so/Getting-Started-9dd5cefac5c6419a8ef4ba44d5705599"
-          },
-          {
-            "type": "link",
-            "addDate": 1673431141000,
-            "title": "登录 · 语雀",
-            "icon": "https://logo.clearbit.com/www.yuque.com",
-            "url": "https://www.yuque.com/login?goto=https%3A%2F%2Fwww.yuque.com%2Fdashboard"
-          },
-          {
-            "type": "link",
-            "addDate": 1576762589000,
-            "title": "卫生健康执法监督 · 语雀",
-            "icon": "https://logo.clearbit.com/www.yuque.com",
-            "url": "https://www.yuque.com/xardac"
+            "type": "folder",
+            "addDate": 1721445562933,
+            "title": "网站",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1586219377000,
+                "title": "中华人民共和国国家卫生健康委员会",
+                "icon": "https://logo.clearbit.com/www.nhc.gov.cn",
+                "url": "http://www.nhc.gov.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1546515057000,
+                "title": "山西省卫生健康委员会-首页",
+                "icon": "https://logo.clearbit.com/wjw.shanxi.gov.cn",
+                "url": "http://wjw.shanxi.gov.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1465481691000,
+                "title": "中华万年历 - 记录分享每一天 ，记事/活动/提醒/天气/闹钟 (随身云)",
+                "icon": "https://logo.clearbit.com/www.zhwnl.cn",
+                "url": "http://www.zhwnl.cn/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1522657851000,
+                "title": "山西省纪委监委网站",
+                "icon": "https://logo.clearbit.com/www.sxdi.gov.cn",
+                "url": "http://www.sxdi.gov.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1471921438000,
+                "title": "中国卫生信息学会",
+                "icon": "https://logo.clearbit.com/www.chia-moh.org.cn",
+                "url": "http://www.chia-moh.org.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1465484029000,
+                "title": "山西省机构编制网",
+                "icon": "https://logo.clearbit.com/www.sxsbb.gov.cn",
+                "url": "http://www.sxsbb.gov.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1537865789000,
+                "title": "健康中国",
+                "icon": "https://logo.clearbit.com/www.jkzg2030.com",
+                "url": "http://www.jkzg2030.com/jkzg/healthNumberNew/myhealth.htm"
+              },
+              {
+                "type": "link",
+                "addDate": 1537865803000,
+                "title": "健康中国活动频道",
+                "icon": "https://logo.clearbit.com/www.jkzg2030.com",
+                "url": "http://www.jkzg2030.com/jkzg/home.htm"
+              },
+              {
+                "type": "link",
+                "addDate": 1705227072251,
+                "title": "山西省健康管理学会",
+                "icon": "https://logo.clearbit.com/www.shanxijiankangguanglixuehui.com.cn",
+                "url": "http://www.shanxijiankangguanglixuehui.com.cn/sy"
+              },
+              {
+                "type": "link",
+                "addDate": 1705227161047,
+                "title": "云梦建站",
+                "icon": "https://logo.clearbit.com/ac.clouddream.net",
+                "url": "https://ac.clouddream.net/#/login?redirect=%2F"
+              },
+              {
+                "type": "link",
+                "addDate": 1586885789000,
+                "title": "国家标准全文公开",
+                "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
+                "url": "http://openstd.samr.gov.cn/bzgk/gb/index"
+              },
+              {
+                "type": "link",
+                "addDate": 1463621889000,
+                "title": "晋ICP备07004194号-1备案详细信息_www.sxwsjd.com备案信息_山西卫生监督网备案信息_ICP备案查询网",
+                "icon": "https://logo.clearbit.com/www.beianbeian.com",
+                "url": "http://www.beianbeian.com/beianxinxi/36fb0768-e332-425b-8336-ae7a2212110c.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1553590187000,
+                "title": "省级政务云平台服务目录-山西云时代技术有限公司",
+                "icon": "https://logo.clearbit.com/www.sxctc.net",
+                "url": "http://www.sxctc.net/ysd/zwy/2510.html"
+              }
+            ]
           }
         ]
       },
@@ -3380,13 +3373,6 @@
                 "title": "老伙计 - 直播源分享，网络电视，IPTV交流",
                 "icon": "https://logo.clearbit.com/laoguy.com",
                 "url": "https://laoguy.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1385375225000,
-                "title": "直播吧",
-                "icon": "https://logo.clearbit.com/www.zhibo8.com",
-                "url": "http://www.zhibo8.com/"
               }
             ]
           }
@@ -3816,6 +3802,34 @@
                 "url": "https://my.alipay.com/portal/home.htm"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1721445668436,
+            "title": "便民",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1709521396171,
+                "title": "太原市政务服务网",
+                "icon": "https://logo.clearbit.com/ty.sxzwfw.gov.cn",
+                "url": "https://ty.sxzwfw.gov.cn/icity/icity/proinfo?id=2E04990594A747228ADD9C8A187A7584&i=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1709526045415,
+                "title": "社会事务二科审批信息通报（2022年第6期）-太原市行政审批服务管理局网站",
+                "icon": "https://logo.clearbit.com/xzspglj.taiyuan.gov.cn",
+                "url": "https://xzspglj.taiyuan.gov.cn/tzgg/20220706/1222455.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1673431290000,
+                "title": "山西政务服务网",
+                "icon": "https://logo.clearbit.com/www.sxzwfw.gov.cn",
+                "url": "http://www.sxzwfw.gov.cn/icity/public/index"
+              }
+            ]
           }
         ]
       },
@@ -3825,179 +3839,193 @@
         "title": "    A    I  ",
         "children": [
           {
-            "type": "link",
-            "addDate": 1716641438783,
-            "title": "通义",
-            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-            "url": "https://tongyi.aliyun.com/qianwen/"
+            "type": "folder",
+            "addDate": 1721445763542,
+            "title": "国内",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718066025017,
+                "title": "开搜AI问答搜索_免费无广告直达结果",
+                "icon": "https://logo.clearbit.com/kaisouai.com",
+                "url": "https://kaisouai.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717738862623,
+                "title": "录咖 - AI智能全方位多媒体服务平台",
+                "icon": "https://logo.clearbit.com/reccloud.cn",
+                "url": "https://reccloud.cn/?apptype=chn-bird"
+              },
+              {
+                "type": "link",
+                "addDate": 1717052704691,
+                "title": "Vtron GPT",
+                "icon": "https://logo.clearbit.com/vtron.site",
+                "url": "https://vtron.site/gpt/#/about"
+              },
+              {
+                "type": "link",
+                "addDate": 1716339890277,
+                "title": "Kimi.ai - 帮你看更大的世界",
+                "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                "url": "https://kimi.moonshot.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1716075704334,
+                "title": "搜索AI伙伴",
+                "icon": "https://logo.clearbit.com/chat.baidu.com",
+                "url": "https://chat.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1716641438783,
+                "title": "通义",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/qianwen/"
+              },
+              {
+                "type": "link",
+                "addDate": 1716538576390,
+                "title": "豆包 - 抖音旗下 AI 智能助手",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/42337221593602"
+              },
+              {
+                "type": "link",
+                "addDate": 1716075493638,
+                "title": "文心一言",
+                "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                "url": "https://yiyan.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1716076845867,
+                "title": "酷表ChatExcel",
+                "icon": "https://logo.clearbit.com/chatexcel.com",
+                "url": "https://chatexcel.com/onlinesheet"
+              },
+              {
+                "type": "link",
+                "addDate": 1717235350572,
+                "title": "腾讯元宝",
+                "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+                "url": "https://yuanbao.tencent.com/chat/naQivTmsDa"
+              },
+              {
+                "type": "link",
+                "addDate": 1716075018337,
+                "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+                "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                "url": "https://xinghuo.xfyun.cn/?ch=nt_wz17"
+              },
+              {
+                "type": "link",
+                "addDate": 1716641449727,
+                "title": "主页 - 扣子",
+                "icon": "https://logo.clearbit.com/www.coze.cn",
+                "url": "https://www.coze.cn/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1716791278566,
+                "title": "复旦·眸思",
+                "icon": "https://logo.clearbit.com/mousi.org",
+                "url": "http://mousi.org:8081/#/chat/2002"
+              }
+            ]
           },
           {
-            "type": "link",
-            "addDate": 1715597616266,
-            "title": "必应中的 Microsoft Copilot",
-            "icon": "https://logo.clearbit.com/www.bing.com",
-            "url": "https://www.bing.com/chat?q=Bing%20AI&qs=ds&form=MY02AA"
+            "type": "folder",
+            "addDate": 1721445772338,
+            "title": "聚合",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1716790731433,
+                "title": "PasteBin",
+                "icon": "https://logo.clearbit.com/paste.fastmirror.net",
+                "url": "https://paste.fastmirror.net/?eb9df883bad64d9c#bhtVvSzBKmsTAuM8tPGpoh3qNaNQ9yaonquA5gTWvrV"
+              },
+              {
+                "type": "link",
+                "addDate": 1718886460715,
+                "title": "YUNYAN-Search丨基于AI的搜索引擎",
+                "icon": "https://logo.clearbit.com/so.nuu.su",
+                "url": "https://so.nuu.su/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715957646453,
+                "title": "国内好用的AI工具推荐 - 不死鸟 - 分享为王官网",
+                "icon": "https://logo.clearbit.com/iui.su",
+                "url": "https://iui.su/3010/"
+              },
+              {
+                "type": "link",
+                "addDate": 1716074168096,
+                "title": "AI工具集 | 700+ AI工具集合官网，国内外AI工具集导航大全",
+                "icon": "https://logo.clearbit.com/ai-bot.cn",
+                "url": "https://ai-bot.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1716075217510,
+                "title": "AI工具箱导航-国内外AI工具导航合集-AMZ123跨境导航",
+                "icon": "https://logo.clearbit.com/www.amz123.com",
+                "url": "https://www.amz123.com/ai"
+              }
+            ]
           },
           {
-            "type": "link",
-            "addDate": 1716538576390,
-            "title": "豆包 - 抖音旗下 AI 智能助手",
-            "icon": "https://logo.clearbit.com/www.doubao.com",
-            "url": "https://www.doubao.com/chat/42337221593602"
-          },
-          {
-            "type": "link",
-            "addDate": 1716075368783,
-            "title": "ChatGPT",
-            "icon": "https://logo.clearbit.com/chatgpt.com",
-            "url": "https://chatgpt.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1716075493638,
-            "title": "文心一言",
-            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-            "url": "https://yiyan.baidu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1716075882145,
-            "title": "Gemini Pro Chat",
-            "icon": "https://logo.clearbit.com/gemini-pro.chat",
-            "url": "https://gemini-pro.chat/"
-          },
-          {
-            "type": "link",
-            "addDate": 1715908485250,
-            "title": "Gemini",
-            "icon": "https://logo.clearbit.com/gemini.google.com",
-            "url": "https://gemini.google.com/app"
-          },
-          {
-            "type": "link",
-            "addDate": 1716076845867,
-            "title": "酷表ChatExcel",
-            "icon": "https://logo.clearbit.com/chatexcel.com",
-            "url": "https://chatexcel.com/onlinesheet"
-          },
-          {
-            "type": "link",
-            "addDate": 1716297617936,
-            "title": "Perplexity",
-            "icon": "https://logo.clearbit.com/www.perplexity.ai",
-            "url": "https://www.perplexity.ai/?login-source=floatingSignup"
-          },
-          {
-            "type": "link",
-            "addDate": 1717235350572,
-            "title": "腾讯元宝",
-            "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
-            "url": "https://yuanbao.tencent.com/chat/naQivTmsDa"
-          },
-          {
-            "type": "link",
-            "addDate": 1719069754495,
-            "title": "Claude",
-            "icon": "https://logo.clearbit.com/claude.ai",
-            "url": "https://claude.ai/chats"
-          },
-          {
-            "type": "link",
-            "addDate": 1718886460715,
-            "title": "YUNYAN-Search丨基于AI的搜索引擎",
-            "icon": "https://logo.clearbit.com/so.nuu.su",
-            "url": "https://so.nuu.su/"
-          },
-          {
-            "type": "link",
-            "addDate": 1715957646453,
-            "title": "国内好用的AI工具推荐 - 不死鸟 - 分享为王官网",
-            "icon": "https://logo.clearbit.com/iui.su",
-            "url": "https://iui.su/3010/"
-          },
-          {
-            "type": "link",
-            "addDate": 1716074168096,
-            "title": "AI工具集 | 700+ AI工具集合官网，国内外AI工具集导航大全",
-            "icon": "https://logo.clearbit.com/ai-bot.cn",
-            "url": "https://ai-bot.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1716075018337,
-            "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
-            "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
-            "url": "https://xinghuo.xfyun.cn/?ch=nt_wz17"
-          },
-          {
-            "type": "link",
-            "addDate": 1716075217510,
-            "title": "AI工具箱导航-国内外AI工具导航合集-AMZ123跨境导航",
-            "icon": "https://logo.clearbit.com/www.amz123.com",
-            "url": "https://www.amz123.com/ai"
-          },
-          {
-            "type": "link",
-            "addDate": 1716075704334,
-            "title": "搜索AI伙伴",
-            "icon": "https://logo.clearbit.com/chat.baidu.com",
-            "url": "https://chat.baidu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1716076198286,
-            "title": "ChatGAi",
-            "icon": "https://logo.clearbit.com/chatgai.lovepor.cn",
-            "url": "https://chatgai.lovepor.cn/?code=1015213534"
-          },
-          {
-            "type": "link",
-            "addDate": 1716339890277,
-            "title": "Kimi.ai - 帮你看更大的世界",
-            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-            "url": "https://kimi.moonshot.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1716641449727,
-            "title": "主页 - 扣子",
-            "icon": "https://logo.clearbit.com/www.coze.cn",
-            "url": "https://www.coze.cn/home"
-          },
-          {
-            "type": "link",
-            "addDate": 1716790731433,
-            "title": "PasteBin",
-            "icon": "https://logo.clearbit.com/paste.fastmirror.net",
-            "url": "https://paste.fastmirror.net/?eb9df883bad64d9c#bhtVvSzBKmsTAuM8tPGpoh3qNaNQ9yaonquA5gTWvrV"
-          },
-          {
-            "type": "link",
-            "addDate": 1716791278566,
-            "title": "复旦·眸思",
-            "icon": "https://logo.clearbit.com/mousi.org",
-            "url": "http://mousi.org:8081/#/chat/2002"
-          },
-          {
-            "type": "link",
-            "addDate": 1717052704691,
-            "title": "Vtron GPT",
-            "icon": "https://logo.clearbit.com/vtron.site",
-            "url": "https://vtron.site/gpt/#/about"
-          },
-          {
-            "type": "link",
-            "addDate": 1717738862623,
-            "title": "录咖 - AI智能全方位多媒体服务平台",
-            "icon": "https://logo.clearbit.com/reccloud.cn",
-            "url": "https://reccloud.cn/?apptype=chn-bird"
-          },
-          {
-            "type": "link",
-            "addDate": 1718066025017,
-            "title": "开搜AI问答搜索_免费无广告直达结果",
-            "icon": "https://logo.clearbit.com/kaisouai.com",
-            "url": "https://kaisouai.com/"
+            "type": "folder",
+            "addDate": 1721445778908,
+            "title": "国外",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715597616266,
+                "title": "必应中的 Microsoft Copilot",
+                "icon": "https://logo.clearbit.com/www.bing.com",
+                "url": "https://www.bing.com/chat?q=Bing%20AI&qs=ds&form=MY02AA"
+              },
+              {
+                "type": "link",
+                "addDate": 1716075368783,
+                "title": "ChatGPT",
+                "icon": "https://logo.clearbit.com/chatgpt.com",
+                "url": "https://chatgpt.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1716075882145,
+                "title": "Gemini Pro Chat",
+                "icon": "https://logo.clearbit.com/gemini-pro.chat",
+                "url": "https://gemini-pro.chat/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715908485250,
+                "title": "Gemini",
+                "icon": "https://logo.clearbit.com/gemini.google.com",
+                "url": "https://gemini.google.com/app"
+              },
+              {
+                "type": "link",
+                "addDate": 1716297617936,
+                "title": "Perplexity",
+                "icon": "https://logo.clearbit.com/www.perplexity.ai",
+                "url": "https://www.perplexity.ai/?login-source=floatingSignup"
+              },
+              {
+                "type": "link",
+                "addDate": 1719069754495,
+                "title": "Claude",
+                "icon": "https://logo.clearbit.com/claude.ai",
+                "url": "https://claude.ai/chats"
+              }
+            ]
           }
         ]
       }
