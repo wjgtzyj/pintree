@@ -552,6 +552,13 @@
                 "title": "影视仓库",
                 "icon": "https://logo.clearbit.com/www.wmdz.com",
                 "url": "http://www.wmdz.com/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1721656723015,
+                "title": "主页 | 清烟资源库丨致力打造全网最全资源",
+                "icon": "https://logo.clearbit.com/pan.qlam.cc",
+                "url": "https://pan.qlam.cc/"
               }
             ]
           },
@@ -910,6 +917,13 @@
             "addDate": 1721490810461,
             "title": "云盘",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1722782640971,
+                "title": "PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.",
+                "icon": "https://logo.clearbit.com/pairdrop.net",
+                "url": "https://pairdrop.net/"
+              },
               {
                 "type": "link",
                 "addDate": 1717339195201,
@@ -2225,6 +2239,13 @@
                 "title": "古文诗词",
                 "icon": "https://logo.clearbit.com/www.guwenshici.com",
                 "url": "https://www.guwenshici.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722300402884,
+                "title": "考途指南（持续更新ing） - 飞书云文档",
+                "icon": "https://logo.clearbit.com/pppw1my52v.feishu.cn",
+                "url": "https://pppw1my52v.feishu.cn/wiki/DGtMwJailirOwPk3OBIcTbTCnhg"
               }
             ]
           },
@@ -2393,6 +2414,13 @@
                 "title": "豆瓣读书",
                 "icon": "https://logo.clearbit.com/book.douban.com",
                 "url": "https://book.douban.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722187853009,
+                "title": "中文教科书",
+                "icon": "https://logo.clearbit.com/textbook.synaiv.com",
+                "url": "https://textbook.synaiv.com/"
               }
             ]
           },
@@ -3443,6 +3471,20 @@
                 "title": "山西政务",
                 "icon": "https://logo.clearbit.com/www.sxzwfw.gov.cn",
                 "url": "http://www.sxzwfw.gov.cn/icity/public/index"
+              },
+              {
+                "type": "link",
+                "addDate": 1721798745333,
+                "title": "2048",
+                "icon": "https://logo.clearbit.com/play2048.co",
+                "url": "https://play2048.co/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722608359660,
+                "title": "有用经验",
+                "icon": "https://logo.clearbit.com/yyjingyan.com",
+                "url": "https://yyjingyan.com/"
               }
             ]
           }
@@ -3590,6 +3632,20 @@
                 "title": "工具箱",
                 "icon": "https://logo.clearbit.com/www.amz123.com",
                 "url": "https://www.amz123.com/ai"
+              },
+              {
+                "type": "link",
+                "addDate": 1721656339438,
+                "title": "AI网址导航-智能AI导航网站集合,搭建开源AI导航网站模板,提供免费AI资源导航工具 - 霂明导航",
+                "icon": "https://logo.clearbit.com/n.mumingfang.com",
+                "url": "https://n.mumingfang.com/ai"
+              },
+              {
+                "type": "link",
+                "addDate": 1721797044546,
+                "title": "工作台 - 陌言AI",
+                "icon": "https://logo.clearbit.com/chat.moyanaigc.com",
+                "url": "https://chat.moyanaigc.com/#/sceneModel/work"
               }
             ]
           },
