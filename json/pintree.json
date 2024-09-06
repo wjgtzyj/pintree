@@ -930,6 +930,13 @@
                 "title": "换底色",
                 "icon": "https://logo.clearbit.com/www.bgconverter.com",
                 "url": "https://www.bgconverter.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725502282171,
+                "title": "图搜首页",
+                "icon": "https://logo.clearbit.com/image.baidu.com",
+                "url": "https://image.baidu.com/"
               }
             ]
           },
@@ -1609,6 +1616,13 @@
                 "title": "华文优读",
                 "icon": "https://logo.clearbit.com/www.mychinese.news",
                 "url": "http://www.mychinese.news/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725465799900,
+                "title": "Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读",
+                "icon": "https://logo.clearbit.com/www.buzzing.cc",
+                "url": "https://www.buzzing.cc/"
               }
             ]
           },
@@ -2281,6 +2295,13 @@
                 "title": "小学试卷网",
                 "icon": "https://logo.clearbit.com/appsj.szxuexiao.com",
                 "url": "https://appsj.szxuexiao.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725501115155,
+                "title": "中国省级行政区划小测试",
+                "icon": "https://logo.clearbit.com/vultr.youmu.moe",
+                "url": "https://vultr.youmu.moe/quiz/"
               }
             ]
           },
@@ -2970,6 +2991,13 @@
             "children": [
               {
                 "type": "link",
+                "addDate": 1725593283631,
+                "title": "金牌影院_免费在线播放_高清全集_电影网站_在线视频",
+                "icon": "https://logo.clearbit.com/fjvtw.com",
+                "url": "https://fjvtw.com/"
+              },
+              {
+                "type": "link",
                 "addDate": 1673443453000,
                 "title": "腾讯视频",
                 "icon": "https://logo.clearbit.com/v.qq.com",
@@ -3527,6 +3555,13 @@
                 "title": "诓骗 - 小心有骗",
                 "icon": "https://logo.clearbit.com/www.kuangpian.com",
                 "url": "https://www.kuangpian.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725504010963,
+                "title": "俄罗斯方块",
+                "icon": "https://logo.clearbit.com/urlapp.org",
+                "url": "https://urlapp.org/apps/app2024072500021/tetris-min"
               }
             ]
           }
@@ -3632,6 +3667,13 @@
                 "title": "复旦眸思",
                 "icon": "https://logo.clearbit.com/mousi.org",
                 "url": "http://mousi.org:8081/#/chat/2002"
+              },
+              {
+                "type": "link",
+                "addDate": 1725502042698,
+                "title": "分歧终端机 - 让7个AI给你们的吵架评评理。",
+                "icon": "https://logo.clearbit.com/www.pingli.app",
+                "url": "https://www.pingli.app/"
               }
             ]
           },
