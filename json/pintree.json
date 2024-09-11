@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1676042997528,
+    "addDate": 1681466026324,
     "title": "收藏夹栏",
     "children": [
       {
@@ -573,6 +573,13 @@
                 "title": "下载 NVIDIA 官方驱动 | NVIDIA",
                 "icon": "https://logo.clearbit.com/www.nvidia.cn",
                 "url": "https://www.nvidia.cn/drivers/lookup/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725723650847,
+                "title": "Umi-OCR 支持离线使用的批量图文识别软件，免费开源！ – 零度解说",
+                "icon": "https://logo.clearbit.com/www.freedidi.com",
+                "url": "https://www.freedidi.com/13846.html"
               }
             ]
           },
@@ -839,6 +846,13 @@
                 "title": "AirPortal",
                 "icon": "https://logo.clearbit.com/airportal.cn",
                 "url": "https://airportal.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725723526269,
+                "title": "PDF24 Tools: 免费且易于使用的在线PDF工具",
+                "icon": "https://logo.clearbit.com/tools.pdf24.org",
+                "url": "https://tools.pdf24.org/zh/"
               }
             ]
           },
@@ -1266,6 +1280,13 @@
                 "title": "环球网",
                 "icon": "https://logo.clearbit.com/www.huanqiu.com",
                 "url": "https://www.huanqiu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726019750494,
+                "title": "即时热点 - 正在发生的事",
+                "icon": "https://logo.clearbit.com/nowhots.com",
+                "url": "https://nowhots.com/mobile"
               }
             ]
           },
@@ -3100,6 +3121,20 @@
                 "title": "华夏视讯",
                 "icon": "https://logo.clearbit.com/www.hxsxw.com",
                 "url": "http://www.hxsxw.com/index.php"
+              },
+              {
+                "type": "link",
+                "addDate": 1725896584182,
+                "title": "Kimivod | 電視劇 電影 動漫 綜藝 線上看",
+                "icon": "https://logo.clearbit.com/kimivod.com",
+                "url": "https://kimivod.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726019776537,
+                "title": "Pintree",
+                "icon": "https://logo.clearbit.com/wjgtzyj.github.io",
+                "url": "https://wjgtzyj.github.io/pintree/"
               }
             ]
           },
@@ -3674,6 +3709,13 @@
                 "title": "分歧终端机 - 让7个AI给你们的吵架评评理。",
                 "icon": "https://logo.clearbit.com/www.pingli.app",
                 "url": "https://www.pingli.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725896551919,
+                "title": "灵办AI网页版：全能AI助手，免费畅享翻译、对话、写作等高效工具，助力工作学习飞跃",
+                "icon": "https://logo.clearbit.com/ilingban.com",
+                "url": "https://ilingban.com/chat/?type=search&from=businiao"
               }
             ]
           },
