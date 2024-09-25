@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1681466026324,
+    "addDate": 1676042997528,
     "title": "收藏夹栏",
     "children": [
       {
@@ -580,6 +580,13 @@
                 "title": "Umi-OCR 支持离线使用的批量图文识别软件，免费开源！ – 零度解说",
                 "icon": "https://logo.clearbit.com/www.freedidi.com",
                 "url": "https://www.freedidi.com/13846.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1727306214224,
+                "title": "MacAppHQ | 你的Mac应用指南",
+                "icon": "https://logo.clearbit.com/www.macapphq.com",
+                "url": "https://www.macapphq.com/"
               }
             ]
           },
@@ -720,6 +727,13 @@
                 "title": "软件仓库-火哥分享",
                 "icon": "https://logo.clearbit.com/www.firepx.com",
                 "url": "https://www.firepx.com/app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726930999559,
+                "title": "安卓应用 Mod 修改版 / 去广告版 apk 下载",
+                "icon": "https://logo.clearbit.com/modyolo.com",
+                "url": "https://modyolo.com/apps"
               }
             ]
           }
@@ -853,6 +867,13 @@
                 "title": "PDF24 Tools: 免费且易于使用的在线PDF工具",
                 "icon": "https://logo.clearbit.com/tools.pdf24.org",
                 "url": "https://tools.pdf24.org/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726842250774,
+                "title": "ueg-文本处理工具",
+                "icon": "https://logo.clearbit.com/ueg.cc",
+                "url": "https://ueg.cc/"
               }
             ]
           },
@@ -1154,6 +1175,20 @@
                 "title": "路由外网",
                 "icon": "https://logo.clearbit.com/lckrzyj.mynetgear.com",
                 "url": "http://lckrzyj.mynetgear.com/start.htm"
+              },
+              {
+                "type": "link",
+                "addDate": 1726680067710,
+                "title": "拒绝算法推荐,使用rss订阅消息与新闻！订阅源推荐！ - 遥月 - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/yaoyue68/p/17879716.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1726682287981,
+                "title": "RSSHub",
+                "icon": "https://logo.clearbit.com/docs.rsshub.app",
+                "url": "https://docs.rsshub.app/zh/"
               }
             ]
           }
@@ -1287,6 +1322,20 @@
                 "title": "即时热点 - 正在发生的事",
                 "icon": "https://logo.clearbit.com/nowhots.com",
                 "url": "https://nowhots.com/mobile"
+              },
+              {
+                "type": "link",
+                "addDate": 1726931087806,
+                "title": "天涯神贴-1999~2024年度榜单-天涯",
+                "icon": "https://logo.clearbit.com/tianya.at",
+                "url": "https://tianya.at/?s=reload"
+              },
+              {
+                "type": "link",
+                "addDate": 1726931789546,
+                "title": "天涯神贴-1999~2024年度榜单-天涯",
+                "icon": "https://logo.clearbit.com/tianya.at",
+                "url": "https://tianya.at/"
               }
             ]
           },
@@ -1644,90 +1693,6 @@
                 "title": "Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读",
                 "icon": "https://logo.clearbit.com/www.buzzing.cc",
                 "url": "https://www.buzzing.cc/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1676049957520,
-            "title": "体育",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1673443538000,
-                "title": "直播吧",
-                "icon": "https://logo.clearbit.com/www.zhibo8.cc",
-                "url": "https://www.zhibo8.cc/"
-              },
-              {
-                "type": "link",
-                "addDate": 1673442061000,
-                "title": "足球集锦",
-                "icon": "https://logo.clearbit.com/www.98zhibo.com",
-                "url": "https://www.98zhibo.com/zuqiujijin/"
-              },
-              {
-                "type": "link",
-                "addDate": 1673441933000,
-                "title": "中超",
-                "icon": "https://logo.clearbit.com/sports.sohu.com",
-                "url": "https://sports.sohu.com/s/csl?spm=smpc.fb-sports-home.top-subnav.5.1602988586242PWfieRv"
-              },
-              {
-                "type": "link",
-                "addDate": 1675604643000,
-                "title": "英超",
-                "icon": "https://logo.clearbit.com/sports.sohu.com",
-                "url": "https://sports.sohu.com/s/premierleague?spm=smpc.fb-sports-home.top-subnav.9.1602988586242PWfieRv"
-              },
-              {
-                "type": "link",
-                "addDate": 1675604559000,
-                "title": "球探体育",
-                "icon": "https://logo.clearbit.com/www.titan007.com",
-                "url": "http://www.titan007.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1675604598000,
-                "title": "v站体育",
-                "icon": "https://logo.clearbit.com/news.vzhan310.com",
-                "url": "https://news.vzhan310.com/report"
-              },
-              {
-                "type": "link",
-                "addDate": 1675604674000,
-                "title": "今日华体",
-                "icon": "https://logo.clearbit.com/nb.sportscn.com",
-                "url": "http://nb.sportscn.com/categorylive-77.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1676193163930,
-                "title": "赛事分析",
-                "icon": "https://logo.clearbit.com/flowus.cn",
-                "url": "https://flowus.cn/03ed5cc9-99d8-42cc-8777-4430e9b5f679"
-              },
-              {
-                "type": "link",
-                "addDate": 1676193828804,
-                "title": "出奇体育",
-                "icon": "https://logo.clearbit.com/www.chuqi.com",
-                "url": "https://www.chuqi.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1673934458000,
-                "title": "足球日历",
-                "icon": "https://logo.clearbit.com/fixtur.es",
-                "url": "https://fixtur.es/en/premier-league"
-              },
-              {
-                "type": "link",
-                "addDate": 1674023807000,
-                "title": "英超分析",
-                "icon": "https://logo.clearbit.com/flowus.cn",
-                "url": "https://flowus.cn/486a55e7-2391-43dc-b52a-b15a9872ace9"
               }
             ]
           },
@@ -2323,6 +2288,27 @@
                 "title": "中国省级行政区划小测试",
                 "icon": "https://logo.clearbit.com/vultr.youmu.moe",
                 "url": "https://vultr.youmu.moe/quiz/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726505071152,
+                "title": "打字鸭 - 专业的在线打字练习平台",
+                "icon": "https://logo.clearbit.com/www.daziya.com",
+                "url": "https://www.daziya.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727165063012,
+                "title": "文生素材_你的专属图像生成助手-美间美盒",
+                "icon": "https://logo.clearbit.com/www.meijian.com",
+                "url": "https://www.meijian.com/mj-box/ai-generate-intro?utm_source=dskolbsn"
+              },
+              {
+                "type": "link",
+                "addDate": 1727165167803,
+                "title": "文本到SVG AI生成器：从文本创建独特的SVG插图",
+                "icon": "https://logo.clearbit.com/svg.la",
+                "url": "https://svg.la/zh/text-to-svg/"
               }
             ]
           },
@@ -2498,6 +2484,13 @@
                 "title": "中文教科书",
                 "icon": "https://logo.clearbit.com/textbook.synaiv.com",
                 "url": "https://textbook.synaiv.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726299949455,
+                "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
+                "icon": "https://logo.clearbit.com/zh.z-lib.gs",
+                "url": "https://zh.z-lib.gs/?ref=yinghe.one"
               }
             ]
           },
@@ -3597,6 +3590,48 @@
                 "title": "俄罗斯方块",
                 "icon": "https://logo.clearbit.com/urlapp.org",
                 "url": "https://urlapp.org/apps/app2024072500021/tetris-min"
+              },
+              {
+                "type": "link",
+                "addDate": 1726504341042,
+                "title": "法定退休年龄计算器",
+                "icon": "https://logo.clearbit.com/si.12333.gov.cn",
+                "url": "https://si.12333.gov.cn/304647.jhtml"
+              },
+              {
+                "type": "link",
+                "addDate": 1726930896054,
+                "title": "《默沙东诊疗手册大众版》",
+                "icon": "https://logo.clearbit.com/www.msdmanuals.cn",
+                "url": "https://www.msdmanuals.cn/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1726931023862,
+                "title": "2024 年 9 月 每日分享 - 不死鸟 - 分享为王官网",
+                "icon": "https://logo.clearbit.com/iui.su",
+                "url": "https://iui.su/189/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727197955011,
+                "title": "首页-中国象棋在线玩",
+                "icon": "https://logo.clearbit.com/chess.z3web.cn",
+                "url": "https://chess.z3web.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727274235813,
+                "title": "天天象棋",
+                "icon": "https://logo.clearbit.com/h5login.qqchess.qq.com",
+                "url": "https://h5login.qqchess.qq.com/?requrl=https://h5login.qqchess.qq.com&code=65D2E70D83D93832FF72F8AF78BDB75F&state=fromQQ_2631729227"
+              },
+              {
+                "type": "link",
+                "addDate": 1727306192043,
+                "title": "PolyTrack | Free Play PolyTrack Online",
+                "icon": "https://logo.clearbit.com/polytracks.org",
+                "url": "https://polytracks.org/"
               }
             ]
           }
