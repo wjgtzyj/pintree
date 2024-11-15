@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1676042997528,
+    "addDate": 1681466026324,
     "title": "收藏夹栏",
     "children": [
       {
@@ -1189,6 +1189,13 @@
                 "title": "RSSHub",
                 "icon": "https://logo.clearbit.com/docs.rsshub.app",
                 "url": "https://docs.rsshub.app/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731654784611,
+                "title": "一键激活windows系统和office软件,Office软件安装,KMS激活",
+                "icon": "https://logo.clearbit.com/kms.cx",
+                "url": "https://kms.cx/"
               }
             ]
           }
@@ -3779,6 +3786,13 @@
                 "title": "灵办AI网页版：全能AI助手，免费畅享翻译、对话、写作等高效工具，助力工作学习飞跃",
                 "icon": "https://logo.clearbit.com/ilingban.com",
                 "url": "https://ilingban.com/chat/?type=search&from=businiao"
+              },
+              {
+                "type": "link",
+                "addDate": 1731655456930,
+                "title": "在线抠图软件_一键去除背景_ps抠图软件-美间美盒",
+                "icon": "https://logo.clearbit.com/www.meijian.com",
+                "url": "https://www.meijian.com/mj-box/ai-pic-matting-intro?subSiteFrom=E-commerce&utm_source=dskolbsn"
               }
             ]
           },
