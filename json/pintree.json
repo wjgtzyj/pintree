@@ -1084,6 +1084,20 @@
                 "title": "小白云盘",
                 "icon": "https://logo.clearbit.com/pc.xiaobai.mom",
                 "url": "https://pc.xiaobai.mom/tasks/list"
+              },
+              {
+                "type": "link",
+                "addDate": 1733297056148,
+                "title": "备忘录",
+                "icon": "https://logo.clearbit.com/cloud.huawei.com",
+                "url": "https://cloud.huawei.com/home#/notepad/note/allNote/note/FncqJ1o038pOwRzDaqzVNOIhiRONFtAkT"
+              },
+              {
+                "type": "link",
+                "addDate": 1733792747677,
+                "title": "iCloud",
+                "icon": "https://logo.clearbit.com/www.icloud.com",
+                "url": "https://www.icloud.com/"
               }
             ]
           },
@@ -1700,6 +1714,13 @@
                 "title": "Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读",
                 "icon": "https://logo.clearbit.com/www.buzzing.cc",
                 "url": "https://www.buzzing.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733791125534,
+                "title": "ACL4SSR 在线订阅转换",
+                "icon": "https://logo.clearbit.com/acl4ssr-sub.github.io",
+                "url": "https://acl4ssr-sub.github.io/"
               }
             ]
           },
@@ -1875,6 +1896,13 @@
                 "title": "大学生必备",
                 "icon": "https://logo.clearbit.com/www.dxsbb.com",
                 "url": "https://www.dxsbb.com/news/118019.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1733493403690,
+                "title": "打印报名表_网上报名_全国征兵网",
+                "icon": "https://logo.clearbit.com/www.gfbzb.gov.cn",
+                "url": "https://www.gfbzb.gov.cn/wb/nb/print/show.action?trnd=46143631875137646267866940870329"
               }
             ]
           },
@@ -3793,6 +3821,20 @@
                 "title": "在线抠图软件_一键去除背景_ps抠图软件-美间美盒",
                 "icon": "https://logo.clearbit.com/www.meijian.com",
                 "url": "https://www.meijian.com/mj-box/ai-pic-matting-intro?subSiteFrom=E-commerce&utm_source=dskolbsn"
+              },
+              {
+                "type": "link",
+                "addDate": 1731687719164,
+                "title": "ima.copilot-腾讯智能工作台",
+                "icon": "https://logo.clearbit.com/ima.qq.com",
+                "url": "https://ima.qq.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732518001070,
+                "title": "绘蛙官网-让你的商品第一时间被种草-简单好用的AI图文生成平台",
+                "icon": "https://logo.clearbit.com/www.ihuiwa.com",
+                "url": "https://www.ihuiwa.com/"
               }
             ]
           },
