@@ -1714,13 +1714,6 @@
                 "title": "华文优读",
                 "icon": "https://logo.clearbit.com/www.mychinese.news",
                 "url": "http://www.mychinese.news/"
-              },
-              {
-                "type": "link",
-                "addDate": 1736061441000,
-                "title": "Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读",
-                "icon": "https://logo.clearbit.com/www.buzzing.cc",
-                "url": "https://www.buzzing.cc/"
               }
             ]
           },
@@ -4178,10 +4171,38 @@
                 "title": "工作台 - 陌言AI",
                 "icon": "https://logo.clearbit.com/chat.moyanaigc.com",
                 "url": "https://chat.moyanaigc.com/#/sceneModel/work"
+              },
+              {
+                "type": "link",
+                "addDate": 1736862960849,
+                "title": "正在播放《宿敌》第01集_高清1080P在线观看平台_电视剧_高清版完整视频免费在线播放_美益达影视-2024年最新高清热播电影-电视剧免费在线观看 - www.meiyd11.com",
+                "icon": "https://logo.clearbit.com/www.mydys1.com",
+                "url": "https://www.mydys1.com/vodplay/301922-7-1.html"
               }
             ]
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1737467121354,
+        "title": "靠谱新闻",
+        "icon": "https://logo.clearbit.com/kaopu.news",
+        "url": "https://kaopu.news/"
+      },
+      {
+        "type": "link",
+        "addDate": 1736061441000,
+        "title": "Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读",
+        "icon": "https://logo.clearbit.com/www.buzzing.cc",
+        "url": "https://www.buzzing.cc/"
+      },
+      {
+        "type": "link",
+        "addDate": 1737469286844,
+        "title": "SciURLs – A neat science news aggregator",
+        "icon": "https://logo.clearbit.com/sciurls.com",
+        "url": "https://sciurls.com/"
       }
     ]
   }
