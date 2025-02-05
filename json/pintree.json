@@ -4203,6 +4203,48 @@
         "title": "SciURLs – A neat science news aggregator",
         "icon": "https://logo.clearbit.com/sciurls.com",
         "url": "https://sciurls.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1737648846468,
+        "title": "Wainao",
+        "icon": "https://logo.clearbit.com/www.wainao.me",
+        "url": "https://www.wainao.me/"
+      },
+      {
+        "type": "link",
+        "addDate": 1737649006740,
+        "title": "探索互联网上高质量的内容 - Owen的博客",
+        "icon": "https://logo.clearbit.com/www.owenyoung.com",
+        "url": "https://www.owenyoung.com/sources/"
+      },
+      {
+        "type": "link",
+        "addDate": 1738156445976,
+        "title": "DeepSeek | 深度求索",
+        "icon": "https://logo.clearbit.com/www.deepseek.com",
+        "url": "https://www.deepseek.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1738687499345,
+        "title": "秘塔AI搜索",
+        "icon": "https://logo.clearbit.com/metaso.cn",
+        "url": "https://metaso.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1738688932977,
+        "title": "5 分钟用满血 DeepSeek R1 搭建个人 AI 知识库（含本地部署） - 知乎",
+        "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+        "url": "https://zhuanlan.zhihu.com/p/21151376958"
+      },
+      {
+        "type": "link",
+        "addDate": 1738689543650,
+        "title": "SiliconCloud",
+        "icon": "https://logo.clearbit.com/cloud.siliconflow.cn",
+        "url": "https://cloud.siliconflow.cn/models"
       }
     ]
   }
