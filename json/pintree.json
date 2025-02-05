@@ -4245,6 +4245,34 @@
         "title": "SiliconCloud",
         "icon": "https://logo.clearbit.com/cloud.siliconflow.cn",
         "url": "https://cloud.siliconflow.cn/models"
+      },
+      {
+        "type": "link",
+        "addDate": 1738734085566,
+        "title": "Cherry Studio 官网：下载 Windows、MacOS 客户端，支持多模型服务",
+        "icon": "https://logo.clearbit.com/cherry-studio.com",
+        "url": "https://cherry-studio.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1738736937104,
+        "title": "火山方舟管理控制台",
+        "icon": "https://logo.clearbit.com/console.volcengine.com",
+        "url": "https://console.volcengine.com/ark/region:ark+cn-beijing/experience"
+      },
+      {
+        "type": "link",
+        "addDate": 1738736962203,
+        "title": "主页 - 扣子",
+        "icon": "https://logo.clearbit.com/www.coze.cn",
+        "url": "https://www.coze.cn/space/7372917292688539686/develop"
+      },
+      {
+        "type": "link",
+        "addDate": 1738736968210,
+        "title": "deepseekR1满血版 - 豆包",
+        "icon": "https://logo.clearbit.com/www.doubao.com",
+        "url": "https://www.doubao.com/chat/1147635865802754"
       }
     ]
   }
