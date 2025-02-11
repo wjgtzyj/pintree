@@ -4273,6 +4273,13 @@
         "title": "deepseekR1满血版 - 豆包",
         "icon": "https://logo.clearbit.com/www.doubao.com",
         "url": "https://www.doubao.com/chat/1147635865802754"
+      },
+      {
+        "type": "link",
+        "addDate": 1739112020710,
+        "title": "Qwen",
+        "icon": "https://logo.clearbit.com/chat.qwenlm.ai",
+        "url": "https://chat.qwenlm.ai/?spm=5aebb161.2ef5001f.0.0.14b0c921uf3S1a"
       }
     ]
   }
