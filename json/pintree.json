@@ -1,57 +1,15 @@
 [
   {
     "type": "folder",
-    "addDate": 1681466026324,
+    "addDate": 1676042997528,
     "title": "收藏夹栏",
     "children": [
-      {
-        "type": "link",
-        "addDate": 1736235504000,
-        "title": "NotebookLM",
-        "icon": "https://logo.clearbit.com/notebooklm.google.com",
-        "url": "https://notebooklm.google.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1736602426000,
-        "title": "AIPAN.ME - 网盘资源搜索引擎",
-        "icon": "https://logo.clearbit.com/www.aipan.me",
-        "url": "https://www.aipan.me/"
-      },
       {
         "type": "link",
         "addDate": 1736072324000,
         "title": "不死鸟",
         "icon": "https://logo.clearbit.com/iui.su",
         "url": "https://iui.su/fx/"
-      },
-      {
-        "type": "link",
-        "addDate": 1736595968000,
-        "title": "MyFreeMP3",
-        "icon": "https://logo.clearbit.com/tools.liumingye.cn",
-        "url": "https://tools.liumingye.cn/music/#/"
-      },
-      {
-        "type": "link",
-        "addDate": 1736072324000,
-        "title": "DeepSeek - 探索未知",
-        "icon": "https://logo.clearbit.com/chat.deepseek.com",
-        "url": "https://chat.deepseek.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1736072324000,
-        "title": "Kimi.ai",
-        "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-        "url": "https://kimi.moonshot.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1736336356000,
-        "title": "豆包 - 字节跳动旗下 AI 智能助手",
-        "icon": "https://logo.clearbit.com/www.doubao.com",
-        "url": "https://www.doubao.com/chat/?from_login=1&origin_landing=https%3A%2F%2Fwww.doubao.com%2Fchat%2F"
       },
       {
         "type": "link",
@@ -101,20 +59,6 @@
         "title": "硬核指南：高清才硬核",
         "icon": "https://logo.clearbit.com/yinghezhinan.com",
         "url": "https://yinghezhinan.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1736072324000,
-        "title": "Microsoft Copilot: 你的 AI 助手",
-        "icon": "https://logo.clearbit.com/copilot.microsoft.com",
-        "url": "https://copilot.microsoft.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1736072324000,
-        "title": "ChatGPT",
-        "icon": "https://logo.clearbit.com/chatgpt.com",
-        "url": "https://chatgpt.com/"
       },
       {
         "type": "link",
@@ -178,13 +122,6 @@
         "title": "直播大全",
         "icon": "https://logo.clearbit.com/tv.cctv.com",
         "url": "https://tv.cctv.com/live/index.shtml?spm=C28340.PdNvWY0LYxCP.E3alv6pYzpwM.1"
-      },
-      {
-        "type": "link",
-        "addDate": 1736335643000,
-        "title": "夸父资源社-优质夸克网盘资源分享社区",
-        "icon": "https://logo.clearbit.com/www.kuafuzys.com",
-        "url": "http://www.kuafuzys.com/"
       },
       {
         "type": "link",
@@ -732,90 +669,6 @@
         "children": [
           {
             "type": "folder",
-            "addDate": 1736736122760,
-            "title": "文件",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1736061440000,
-                "title": "文本校对",
-                "icon": "https://logo.clearbit.com/www.ijiaodui.com",
-                "url": "https://www.ijiaodui.com/workbench/"
-              },
-              {
-                "type": "link",
-                "addDate": 1736061440000,
-                "title": "沉浸翻译 ",
-                "icon": "https://logo.clearbit.com/app.immersivetranslate.com",
-                "url": "https://app.immersivetranslate.com/text/"
-              },
-              {
-                "type": "link",
-                "addDate": 1736061440000,
-                "title": "磁力转换",
-                "icon": "https://logo.clearbit.com/magnet2torrent.com",
-                "url": "http://magnet2torrent.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1736061440000,
-                "title": "文件助手",
-                "icon": "https://logo.clearbit.com/filehelper.weixin.qq.com",
-                "url": "https://filehelper.weixin.qq.com/?utm_source=appinn.com"
-              },
-              {
-                "type": "link",
-                "addDate": 1736061440000,
-                "title": "文件传输 ",
-                "icon": "https://logo.clearbit.com/musetransfer.com",
-                "url": "https://musetransfer.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1736061440000,
-                "title": "奶牛快传",
-                "icon": "https://logo.clearbit.com/cowtransfer.com",
-                "url": "https://cowtransfer.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1736061440000,
-                "title": "阅后即焚",
-                "icon": "https://logo.clearbit.com/yhjf.cc",
-                "url": "https://yhjf.cc/"
-              },
-              {
-                "type": "link",
-                "addDate": 1736061440000,
-                "title": "文叔叔",
-                "icon": "https://logo.clearbit.com/www.wenshushu.cn",
-                "url": "https://www.wenshushu.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1736061440000,
-                "title": "AirPortal",
-                "icon": "https://logo.clearbit.com/airportal.cn",
-                "url": "https://airportal.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1736061440000,
-                "title": "PDF24 Tools: 免费且易于使用的在线PDF工具",
-                "icon": "https://logo.clearbit.com/tools.pdf24.org",
-                "url": "https://tools.pdf24.org/zh/"
-              },
-              {
-                "type": "link",
-                "addDate": 1736061440000,
-                "title": "ueg-文本处理工具",
-                "icon": "https://logo.clearbit.com/ueg.cc",
-                "url": "https://ueg.cc/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
             "addDate": 1736736122763,
             "title": "图片",
             "children": [
@@ -1075,57 +928,85 @@
           },
           {
             "type": "folder",
-            "addDate": 1736736122769,
-            "title": "视听",
+            "addDate": 1736736122760,
+            "title": "文件",
             "children": [
               {
                 "type": "link",
                 "addDate": 1736061440000,
-                "title": "短视频解析",
-                "icon": "https://logo.clearbit.com/www.jiexiapi.top",
-                "url": "https://www.jiexiapi.top/"
+                "title": "文本校对",
+                "icon": "https://logo.clearbit.com/www.ijiaodui.com",
+                "url": "https://www.ijiaodui.com/workbench/"
               },
               {
                 "type": "link",
                 "addDate": 1736061440000,
-                "title": "专业伴奏",
-                "icon": "https://logo.clearbit.com/www.0zou.com",
-                "url": "https://www.0zou.com/"
+                "title": "沉浸翻译 ",
+                "icon": "https://logo.clearbit.com/app.immersivetranslate.com",
+                "url": "https://app.immersivetranslate.com/text/"
               },
               {
                 "type": "link",
                 "addDate": 1736061440000,
-                "title": "MyFreeMP3",
-                "icon": "https://logo.clearbit.com/tool.liumingye.cn",
-                "url": "https://tool.liumingye.cn/music/#/"
+                "title": "磁力转换",
+                "icon": "https://logo.clearbit.com/magnet2torrent.com",
+                "url": "http://magnet2torrent.com/"
               },
               {
                 "type": "link",
                 "addDate": 1736061440000,
-                "title": "文字语音",
-                "icon": "https://logo.clearbit.com/ttsmaker.com",
-                "url": "https://ttsmaker.com/zh-cn"
+                "title": "文件助手",
+                "icon": "https://logo.clearbit.com/filehelper.weixin.qq.com",
+                "url": "https://filehelper.weixin.qq.com/?utm_source=appinn.com"
               },
               {
                 "type": "link",
                 "addDate": 1736061440000,
-                "title": "去MP3声",
-                "icon": "https://logo.clearbit.com/www.edityouraudio.com",
-                "url": "https://www.edityouraudio.com/vocal-remover"
+                "title": "文件传输 ",
+                "icon": "https://logo.clearbit.com/musetransfer.com",
+                "url": "https://musetransfer.com/"
               },
               {
                 "type": "link",
                 "addDate": 1736061440000,
-                "title": "Drive & Listen",
-                "icon": "https://logo.clearbit.com/driveandlisten.herokuapp.com",
-                "url": "https://driveandlisten.herokuapp.com/"
+                "title": "奶牛快传",
+                "icon": "https://logo.clearbit.com/cowtransfer.com",
+                "url": "https://cowtransfer.com/"
               },
               {
                 "type": "link",
                 "addDate": 1736061440000,
-                "title": "猫看www.maokan.cc - 在线白噪音网站，体验宁静与专注",
-                "icon": "https://logo.clearbit.com/www.maokan.cc",
-                "url": "https://www.maokan.cc/"
+                "title": "阅后即焚",
+                "icon": "https://logo.clearbit.com/yhjf.cc",
+                "url": "https://yhjf.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736061440000,
+                "title": "文叔叔",
+                "icon": "https://logo.clearbit.com/www.wenshushu.cn",
+                "url": "https://www.wenshushu.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736061440000,
+                "title": "AirPortal",
+                "icon": "https://logo.clearbit.com/airportal.cn",
+                "url": "https://airportal.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736061440000,
+                "title": "PDF24 Tools: 免费且易于使用的在线PDF工具",
+                "icon": "https://logo.clearbit.com/tools.pdf24.org",
+                "url": "https://tools.pdf24.org/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736061440000,
+                "title": "ueg-文本处理工具",
+                "icon": "https://logo.clearbit.com/ueg.cc",
+                "url": "https://ueg.cc/"
               }
             ]
           },
@@ -1189,6 +1070,90 @@
                 "title": "",
                 "icon": "https://logo.clearbit.com/tcp.mk",
                 "url": "https://tcp.mk/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1736736122769,
+            "title": "视听",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1736061440000,
+                "title": "短视频解析",
+                "icon": "https://logo.clearbit.com/www.jiexiapi.top",
+                "url": "https://www.jiexiapi.top/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736061440000,
+                "title": "专业伴奏",
+                "icon": "https://logo.clearbit.com/www.0zou.com",
+                "url": "https://www.0zou.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736061440000,
+                "title": "MyFreeMP3",
+                "icon": "https://logo.clearbit.com/tool.liumingye.cn",
+                "url": "https://tool.liumingye.cn/music/#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736061440000,
+                "title": "文字语音",
+                "icon": "https://logo.clearbit.com/ttsmaker.com",
+                "url": "https://ttsmaker.com/zh-cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1736061440000,
+                "title": "去MP3声",
+                "icon": "https://logo.clearbit.com/www.edityouraudio.com",
+                "url": "https://www.edityouraudio.com/vocal-remover"
+              },
+              {
+                "type": "link",
+                "addDate": 1736061440000,
+                "title": "Drive & Listen",
+                "icon": "https://logo.clearbit.com/driveandlisten.herokuapp.com",
+                "url": "https://driveandlisten.herokuapp.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736061440000,
+                "title": "猫看www.maokan.cc - 在线白噪音网站，体验宁静与专注",
+                "icon": "https://logo.clearbit.com/www.maokan.cc",
+                "url": "https://www.maokan.cc/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1739694246767,
+            "title": "资源",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1736602426000,
+                "title": "AIPAN.ME - 网盘资源搜索引擎",
+                "icon": "https://logo.clearbit.com/www.aipan.me",
+                "url": "https://www.aipan.me/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736335643000,
+                "title": "夸父资源社-优质夸克网盘资源分享社区",
+                "icon": "https://logo.clearbit.com/www.kuafuzys.com",
+                "url": "http://www.kuafuzys.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1737649006740,
+                "title": "探索互联网上高质量的内容 - Owen的博客",
+                "icon": "https://logo.clearbit.com/www.owenyoung.com",
+                "url": "https://www.owenyoung.com/sources/"
               }
             ]
           },
@@ -1379,6 +1344,34 @@
             "addDate": 1736736122778,
             "title": "境外",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1737648846468,
+                "title": "Wainao",
+                "icon": "https://logo.clearbit.com/www.wainao.me",
+                "url": "https://www.wainao.me/"
+              },
+              {
+                "type": "link",
+                "addDate": 1737467121354,
+                "title": "靠谱新闻",
+                "icon": "https://logo.clearbit.com/kaopu.news",
+                "url": "https://kaopu.news/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736061441000,
+                "title": "Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读",
+                "icon": "https://logo.clearbit.com/www.buzzing.cc",
+                "url": "https://www.buzzing.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1737469286844,
+                "title": "SciURLs – A neat science news aggregator",
+                "icon": "https://logo.clearbit.com/sciurls.com",
+                "url": "https://sciurls.com/"
+              },
               {
                 "type": "link",
                 "addDate": 1736061440000,
@@ -3221,6 +3214,20 @@
                 "url": "https://www.98zhibo.com/"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1739694416409,
+            "title": "音频",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1736595968000,
+                "title": "MyFreeMP3",
+                "icon": "https://logo.clearbit.com/tools.liumingye.cn",
+                "url": "https://tools.liumingye.cn/music/#/"
+              }
+            ]
           }
         ]
       },
@@ -3908,6 +3915,34 @@
             "children": [
               {
                 "type": "link",
+                "addDate": 1736235504000,
+                "title": "NotebookLM",
+                "icon": "https://logo.clearbit.com/notebooklm.google.com",
+                "url": "https://notebooklm.google.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736072324000,
+                "title": "Microsoft Copilot: 你的 AI 助手",
+                "icon": "https://logo.clearbit.com/copilot.microsoft.com",
+                "url": "https://copilot.microsoft.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736072324000,
+                "title": "ChatGPT",
+                "icon": "https://logo.clearbit.com/chatgpt.com",
+                "url": "https://chatgpt.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1739517765032,
+                "title": "deepseek-r1 模型 by deepseek-ai |NVIDIA NIM --- deepseek-r1 Model by Deepseek-ai | NVIDIA NIM",
+                "icon": "https://logo.clearbit.com/build.nvidia.com",
+                "url": "https://build.nvidia.com/deepseek-ai/deepseek-r1"
+              },
+              {
+                "type": "link",
                 "addDate": 1736061445000,
                 "title": "Copilot",
                 "icon": "https://logo.clearbit.com/www.bing.com",
@@ -3955,6 +3990,111 @@
             "addDate": 1736736122856,
             "title": "国内",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1736072324000,
+                "title": "DeepSeek - 探索未知",
+                "icon": "https://logo.clearbit.com/chat.deepseek.com",
+                "url": "https://chat.deepseek.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736072324000,
+                "title": "Kimi.ai",
+                "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                "url": "https://kimi.moonshot.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736336356000,
+                "title": "豆包 - 字节跳动旗下 AI 智能助手",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/?from_login=1&origin_landing=https%3A%2F%2Fwww.doubao.com%2Fchat%2F"
+              },
+              {
+                "type": "link",
+                "addDate": 1738156445976,
+                "title": "DeepSeek | 深度求索",
+                "icon": "https://logo.clearbit.com/www.deepseek.com",
+                "url": "https://www.deepseek.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1738687499345,
+                "title": "秘塔AI搜索",
+                "icon": "https://logo.clearbit.com/metaso.cn",
+                "url": "https://metaso.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1738688932977,
+                "title": "5 分钟用满血 DeepSeek R1 搭建个人 AI 知识库（含本地部署） - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/21151376958"
+              },
+              {
+                "type": "link",
+                "addDate": 1738689543650,
+                "title": "SiliconCloud",
+                "icon": "https://logo.clearbit.com/cloud.siliconflow.cn",
+                "url": "https://cloud.siliconflow.cn/models"
+              },
+              {
+                "type": "link",
+                "addDate": 1738734085566,
+                "title": "Cherry Studio 官网：下载 Windows、MacOS 客户端，支持多模型服务",
+                "icon": "https://logo.clearbit.com/cherry-studio.com",
+                "url": "https://cherry-studio.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1738736937104,
+                "title": "火山方舟管理控制台",
+                "icon": "https://logo.clearbit.com/console.volcengine.com",
+                "url": "https://console.volcengine.com/ark/region:ark+cn-beijing/experience"
+              },
+              {
+                "type": "link",
+                "addDate": 1738736962203,
+                "title": "主页 - 扣子",
+                "icon": "https://logo.clearbit.com/www.coze.cn",
+                "url": "https://www.coze.cn/space/7372917292688539686/develop"
+              },
+              {
+                "type": "link",
+                "addDate": 1738736968210,
+                "title": "deepseekR1满血版 - 豆包",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/1147635865802754"
+              },
+              {
+                "type": "link",
+                "addDate": 1739112020710,
+                "title": "Qwen",
+                "icon": "https://logo.clearbit.com/chat.qwenlm.ai",
+                "url": "https://chat.qwenlm.ai/?spm=5aebb161.2ef5001f.0.0.14b0c921uf3S1a"
+              },
+              {
+                "type": "link",
+                "addDate": 1739535760285,
+                "title": "DeepSeek 提示词技巧：用DeepSeek生成高考志愿方案，告别天价咨询费！ - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/22653854286"
+              },
+              {
+                "type": "link",
+                "addDate": 1739536262546,
+                "title": "学会DeepSeek提问技巧来精准获取答案（保姆级教学） - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/21108963303"
+              },
+              {
+                "type": "link",
+                "addDate": 1739614393558,
+                "title": "小艺",
+                "icon": "https://logo.clearbit.com/xiaoyi.huawei.com",
+                "url": "https://xiaoyi.huawei.com/chat/"
+              },
               {
                 "type": "link",
                 "addDate": 1736061444000,
@@ -4182,104 +4322,6 @@
             ]
           }
         ]
-      },
-      {
-        "type": "link",
-        "addDate": 1737467121354,
-        "title": "靠谱新闻",
-        "icon": "https://logo.clearbit.com/kaopu.news",
-        "url": "https://kaopu.news/"
-      },
-      {
-        "type": "link",
-        "addDate": 1736061441000,
-        "title": "Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读",
-        "icon": "https://logo.clearbit.com/www.buzzing.cc",
-        "url": "https://www.buzzing.cc/"
-      },
-      {
-        "type": "link",
-        "addDate": 1737469286844,
-        "title": "SciURLs – A neat science news aggregator",
-        "icon": "https://logo.clearbit.com/sciurls.com",
-        "url": "https://sciurls.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1737648846468,
-        "title": "Wainao",
-        "icon": "https://logo.clearbit.com/www.wainao.me",
-        "url": "https://www.wainao.me/"
-      },
-      {
-        "type": "link",
-        "addDate": 1737649006740,
-        "title": "探索互联网上高质量的内容 - Owen的博客",
-        "icon": "https://logo.clearbit.com/www.owenyoung.com",
-        "url": "https://www.owenyoung.com/sources/"
-      },
-      {
-        "type": "link",
-        "addDate": 1738156445976,
-        "title": "DeepSeek | 深度求索",
-        "icon": "https://logo.clearbit.com/www.deepseek.com",
-        "url": "https://www.deepseek.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1738687499345,
-        "title": "秘塔AI搜索",
-        "icon": "https://logo.clearbit.com/metaso.cn",
-        "url": "https://metaso.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1738688932977,
-        "title": "5 分钟用满血 DeepSeek R1 搭建个人 AI 知识库（含本地部署） - 知乎",
-        "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-        "url": "https://zhuanlan.zhihu.com/p/21151376958"
-      },
-      {
-        "type": "link",
-        "addDate": 1738689543650,
-        "title": "SiliconCloud",
-        "icon": "https://logo.clearbit.com/cloud.siliconflow.cn",
-        "url": "https://cloud.siliconflow.cn/models"
-      },
-      {
-        "type": "link",
-        "addDate": 1738734085566,
-        "title": "Cherry Studio 官网：下载 Windows、MacOS 客户端，支持多模型服务",
-        "icon": "https://logo.clearbit.com/cherry-studio.com",
-        "url": "https://cherry-studio.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1738736937104,
-        "title": "火山方舟管理控制台",
-        "icon": "https://logo.clearbit.com/console.volcengine.com",
-        "url": "https://console.volcengine.com/ark/region:ark+cn-beijing/experience"
-      },
-      {
-        "type": "link",
-        "addDate": 1738736962203,
-        "title": "主页 - 扣子",
-        "icon": "https://logo.clearbit.com/www.coze.cn",
-        "url": "https://www.coze.cn/space/7372917292688539686/develop"
-      },
-      {
-        "type": "link",
-        "addDate": 1738736968210,
-        "title": "deepseekR1满血版 - 豆包",
-        "icon": "https://logo.clearbit.com/www.doubao.com",
-        "url": "https://www.doubao.com/chat/1147635865802754"
-      },
-      {
-        "type": "link",
-        "addDate": 1739112020710,
-        "title": "Qwen",
-        "icon": "https://logo.clearbit.com/chat.qwenlm.ai",
-        "url": "https://chat.qwenlm.ai/?spm=5aebb161.2ef5001f.0.0.14b0c921uf3S1a"
       }
     ]
   }
