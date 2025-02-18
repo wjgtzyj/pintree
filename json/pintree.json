@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1676042997528,
+    "addDate": 1681466026324,
     "title": "收藏夹栏",
     "children": [
       {
@@ -4322,6 +4322,13 @@
             ]
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1739853816691,
+        "title": "知乎直答",
+        "icon": "https://logo.clearbit.com/zhida.zhihu.com",
+        "url": "https://zhida.zhihu.com/"
       }
     ]
   }
