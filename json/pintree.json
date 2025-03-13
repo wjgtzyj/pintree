@@ -4329,6 +4329,13 @@
         "title": "知乎直答",
         "icon": "https://logo.clearbit.com/zhida.zhihu.com",
         "url": "https://zhida.zhihu.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1741875964676,
+        "title": "百度AI搜索 - 办公学习一站解决",
+        "icon": "https://logo.clearbit.com/chat.baidu.com",
+        "url": "https://chat.baidu.com/search?extParams=%7B%22enter_type%22%3A%22chat_url%22%7D&isShowHello=1"
       }
     ]
   }
