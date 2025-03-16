@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1681466026324,
+    "addDate": 1676042997528,
     "title": "收藏夹栏",
     "children": [
       {
@@ -4336,6 +4336,20 @@
         "title": "百度AI搜索 - 办公学习一站解决",
         "icon": "https://logo.clearbit.com/chat.baidu.com",
         "url": "https://chat.baidu.com/search?extParams=%7B%22enter_type%22%3A%22chat_url%22%7D&isShowHello=1"
+      },
+      {
+        "type": "link",
+        "addDate": 1741961593364,
+        "title": "2025 年 3 月 每日分享 - 不死鸟 - 分享为王官网",
+        "icon": "https://logo.clearbit.com/iui.su",
+        "url": "https://iui.su/195/"
+      },
+      {
+        "type": "link",
+        "addDate": 1742091003350,
+        "title": "Create Prompt | Google AI Studio",
+        "icon": "https://logo.clearbit.com/aistudio.google.com",
+        "url": "https://aistudio.google.com/prompts/new_chat"
       }
     ]
   }
